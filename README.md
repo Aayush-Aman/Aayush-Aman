@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aayush Aman</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
   <a href="https://aayushaman.vercel.app/" target="_blank">🌐 Portfolio</a> |
@@ -14,9 +14,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech (ECE), Maharaja Surajmal Institute of Technology (2022–2026)  
-- 💼 Currently working on **full-stack web applications**  
+- 💼 Currently working on **my innovative ideas**  
 - 🌱 Learning **TypeScript, Next.js, and system design**  
-- 🧠 Solving DSA on **Codeforces, LeetCode**  
+- 🧠 Solving problems on **Codeforces, LeetCode**  
 - ✨ Fun Fact: I love solving real-world problems with code!
 
 ---
